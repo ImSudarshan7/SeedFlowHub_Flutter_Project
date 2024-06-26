@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1012404326179",
+    "firebase_url": "https://seedflowhub-default-rtdb.firebaseio.com",
+    "project_id": "seedflowhub",
+    "storage_bucket": "seedflowhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012404326179:android:031581fd509c268c18c696",
+        "android_client_info": {
+          "package_name": "com.example.seedflowhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIu8PatpbQVsvEEECulfZ7mqYGevyNTT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

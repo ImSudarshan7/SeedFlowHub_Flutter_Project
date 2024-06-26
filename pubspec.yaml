@@ -1,0 +1,36 @@
+name: seedflowhub
+description: "A Seed Supply Application."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_iconly: ^1.0.2
+  google_fonts: ^5.1.0
+  badges: ^3.1.1
+  timelines: ^0.1.0
+  easy_stepper: ^0.7.3
+  firebase_core: ^2.27.2
+  firebase_auth: ^4.18.0
+  cloud_firestore: ^4.15.10
+  firebase_storage: ^11.6.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  test: ^1.24.9
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - shorebird.yaml
